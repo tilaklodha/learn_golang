@@ -8,3 +8,6 @@
 # MAde 2.go
 - Program taking an input from command line and working on different packages.
 
+# Made 3.go
+- Program to declare variables.
+
