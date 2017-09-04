@@ -11,3 +11,6 @@
 # Made 3.go
 - Program to declare variables.
 
+# Made 4.go
+- Program for function declarations with different return values and arguments.
+
