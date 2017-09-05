@@ -14,3 +14,6 @@
 ### 4.go
 - Program for function declarations with different return values and arguments.
 
+### 5.go
+- Program for defining structures and uses.
+
